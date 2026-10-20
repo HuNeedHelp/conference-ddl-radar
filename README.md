@@ -1,5 +1,7 @@
 # Conference DDL Radar
 
+简体中文 | [English](README.en.md)
+
 一个免登录的计算机会议截止时间看板，面向计算机视觉和机器人研究者。追踪摘要、全文等重要节点，让投稿时间一目了然。
 
 **[在线演示 →](https://conference-ddl-vision-robotics.sharpmaple1024.chatgpt.site/)**
