@@ -1,0 +1,614 @@
+{
+  "version": "CCF第七版（2026）",
+  "sourceUrl": "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F",
+  "verifiedAt": "2026-10-20",
+  "conferences": [
+    {
+      "acronym": "PPoPP",
+      "name": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "FAST",
+      "name": "USENIX Conference on File and Storage Technologies",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems",
+        "storage"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "DAC",
+      "name": "Design Automation Conference",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "architecture"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "HPCA",
+      "name": "IEEE International Symposium on High Performance Computer Architecture",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "architecture"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "MICRO",
+      "name": "IEEE/ACM International Symposium on Microarchitecture",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "architecture"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "SC",
+      "name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems",
+        "hpc"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "ASPLOS",
+      "name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems",
+        "architecture"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "ISCA",
+      "name": "International Symposium on Computer Architecture",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "architecture"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "ACM SIGOPS ATC",
+      "name": "ACM SIGOPS Annual Technical Conference",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "EuroSys",
+      "name": "European Conference on Computer Systems",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "HPDC",
+      "name": "The International ACM Symposium on High-Performance Parallel and Distributed Computing",
+      "rank": "A",
+      "area": "DS",
+      "tags": [
+        "systems",
+        "hpc"
+      ],
+      "sourcePage": 5
+    },
+    {
+      "acronym": "SIGCOMM",
+      "name": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+      "rank": "A",
+      "area": "NW",
+      "tags": [
+        "networks"
+      ],
+      "sourcePage": 13
+    },
+    {
+      "acronym": "MobiCom",
+      "name": "ACM International Conference on Mobile Computing and Networking",
+      "rank": "A",
+      "area": "NW",
+      "tags": [
+        "networks"
+      ],
+      "sourcePage": 13
+    },
+    {
+      "acronym": "INFOCOM",
+      "name": "IEEE International Conference on Computer Communications",
+      "rank": "A",
+      "area": "NW",
+      "tags": [
+        "networks"
+      ],
+      "sourcePage": 13
+    },
+    {
+      "acronym": "NSDI",
+      "name": "Symposium on Network System Design and Implementation",
+      "rank": "A",
+      "area": "NW",
+      "tags": [
+        "networks",
+        "systems"
+      ],
+      "sourcePage": 13
+    },
+    {
+      "acronym": "CCS",
+      "name": "ACM Conference on Computer and Communications Security",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "EUROCRYPT",
+      "name": "International Conference on the Theory and Applications of Cryptographic Techniques",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security",
+        "cryptography"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "S&P",
+      "name": "IEEE Symposium on Security and Privacy",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "CRYPTO",
+      "name": "International Cryptology Conference",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security",
+        "cryptography"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "USENIX Security",
+      "name": "USENIX Security Symposium",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "NDSS",
+      "name": "Network and Distributed System Security Symposium",
+      "rank": "A",
+      "area": "SC",
+      "tags": [
+        "security"
+      ],
+      "sourcePage": 20
+    },
+    {
+      "acronym": "PLDI",
+      "name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "programming-languages"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "POPL",
+      "name": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "programming-languages"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "FSE",
+      "name": "ACM International Conference on the Foundations of Software Engineering",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "software-engineering"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "SOSP",
+      "name": "ACM Symposium on Operating Systems Principles",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "systems"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "OOPSLA",
+      "name": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "programming-languages"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "ASE",
+      "name": "International Conference on Automated Software Engineering",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "software-engineering"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "ICSE",
+      "name": "International Conference on Software Engineering",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "software-engineering"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "ISSTA",
+      "name": "International Symposium on Software Testing and Analysis",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "software-engineering"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "OSDI",
+      "name": "USENIX Symposium on Operating Systems Design and Implementation",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "systems"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "FM",
+      "name": "International Symposium on Formal Methods",
+      "rank": "A",
+      "area": "SE",
+      "tags": [
+        "formal-methods"
+      ],
+      "sourcePage": 27
+    },
+    {
+      "acronym": "SIGMOD",
+      "name": "ACM SIGMOD Conference",
+      "rank": "A",
+      "area": "DB",
+      "tags": [
+        "databases"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "acronym": "SIGKDD",
+      "name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "rank": "A",
+      "area": "DB",
+      "tags": [
+        "data-mining"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "acronym": "ICDE",
+      "name": "IEEE International Conference on Data Engineering",
+      "rank": "A",
+      "area": "DB",
+      "tags": [
+        "databases"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "acronym": "SIGIR",
+      "name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "rank": "A",
+      "area": "DB",
+      "tags": [
+        "information-retrieval"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "acronym": "VLDB",
+      "name": "International Conference on Very Large Data Bases",
+      "rank": "A",
+      "area": "DB",
+      "tags": [
+        "databases"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "acronym": "STOC",
+      "name": "ACM Symposium on the Theory of Computing",
+      "rank": "A",
+      "area": "CT",
+      "tags": [
+        "theory"
+      ],
+      "sourcePage": 41
+    },
+    {
+      "acronym": "SODA",
+      "name": "ACM-SIAM Symposium on Discrete Algorithms",
+      "rank": "A",
+      "area": "CT",
+      "tags": [
+        "theory"
+      ],
+      "sourcePage": 41
+    },
+    {
+      "acronym": "CAV",
+      "name": "International Conference on Computer Aided Verification",
+      "rank": "A",
+      "area": "CT",
+      "tags": [
+        "formal-methods"
+      ],
+      "sourcePage": 41
+    },
+    {
+      "acronym": "FOCS",
+      "name": "IEEE Annual Symposium on Foundations of Computer Science",
+      "rank": "A",
+      "area": "CT",
+      "tags": [
+        "theory"
+      ],
+      "sourcePage": 41
+    },
+    {
+      "acronym": "LICS",
+      "name": "ACM/IEEE Symposium on Logic in Computer Science",
+      "rank": "A",
+      "area": "CT",
+      "tags": [
+        "theory"
+      ],
+      "sourcePage": 41
+    },
+    {
+      "acronym": "ACM MM",
+      "name": "ACM International Conference on Multimedia",
+      "rank": "A",
+      "area": "CG",
+      "tags": [
+        "multimedia"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "acronym": "SIGGRAPH",
+      "name": "ACM Special Interest Group on Computer Graphics",
+      "rank": "A",
+      "area": "CG",
+      "tags": [
+        "graphics"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "acronym": "VR",
+      "name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
+      "rank": "A",
+      "area": "CG",
+      "tags": [
+        "xr"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "acronym": "IEEE VIS",
+      "name": "IEEE Visualization Conference",
+      "rank": "A",
+      "area": "CG",
+      "tags": [
+        "visualization"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "acronym": "AAAI",
+      "name": "AAAI Conference on Artificial Intelligence",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "ai"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "NeurIPS",
+      "name": "Conference on Neural Information Processing Systems",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "ml"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "ACL",
+      "name": "Annual Meeting of the Association for Computational Linguistics",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "nlp"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "CVPR",
+      "name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "vision"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "ICCV",
+      "name": "International Conference on Computer Vision",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "vision"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "ICML",
+      "name": "International Conference on Machine Learning",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "ml"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "ICLR",
+      "name": "International Conference on Learning Representations",
+      "rank": "A",
+      "area": "AI",
+      "tags": [
+        "ml"
+      ],
+      "sourcePage": 57
+    },
+    {
+      "acronym": "CSCW",
+      "name": "ACM Conference On Computer-Supported Cooperative Work And Social Computing",
+      "rank": "A",
+      "area": "HI",
+      "tags": [
+        "hci"
+      ],
+      "sourcePage": 64
+    },
+    {
+      "acronym": "CHI",
+      "name": "ACM Conference on Human Factors in Computing Systems",
+      "rank": "A",
+      "area": "HI",
+      "tags": [
+        "hci"
+      ],
+      "sourcePage": 64
+    },
+    {
+      "acronym": "UbiComp",
+      "name": "ACM international joint conference on Pervasive and Ubiquitous Computing",
+      "rank": "A",
+      "area": "HI",
+      "tags": [
+        "ubiquitous-computing"
+      ],
+      "sourcePage": 64
+    },
+    {
+      "acronym": "UIST",
+      "name": "ACM Symposium on User Interface Software and Technology",
+      "rank": "A",
+      "area": "HI",
+      "tags": [
+        "hci"
+      ],
+      "sourcePage": 64
+    },
+    {
+      "acronym": "WWW",
+      "name": "The Web Conference",
+      "rank": "A",
+      "area": "MX",
+      "tags": [
+        "web"
+      ],
+      "sourcePage": 70
+    },
+    {
+      "acronym": "RTSS",
+      "name": "IEEE Real-Time Systems Symposium",
+      "rank": "A",
+      "area": "MX",
+      "tags": [
+        "real-time-systems"
+      ],
+      "sourcePage": 70
+    },
+    {
+      "acronym": "ECCV",
+      "name": "European Conference on Computer Vision",
+      "rank": "B",
+      "area": "AI",
+      "tags": [
+        "vision"
+      ],
+      "sourcePage": 58
+    },
+    {
+      "acronym": "ICRA",
+      "name": "IEEE International Conference on Robotics and Automation",
+      "rank": "B",
+      "area": "AI",
+      "tags": [
+        "robotics"
+      ],
+      "sourcePage": 58
+    }
+  ]
+}

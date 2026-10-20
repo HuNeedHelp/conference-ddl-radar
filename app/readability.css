@@ -1,0 +1,41 @@
+/* Primary data remains readable at compact desktop and mobile widths. */
+.conference-name{font-size:12px;line-height:1.7;min-height:41px;color:#78836f}
+.card-badges{font-size:11px;color:#74816b}
+.rank{font-size:10px}
+.deadline-caption{font-size:11px;color:#748266}
+.deadline-date{font-size:11px;color:#728262}
+.deadline-date>span{font-size:10px;color:#8d9a7d}
+.mini-nodes>div{font-size:10px;color:#89947b}
+.mini-nodes strong{font-size:12px;color:#667756}
+.mini-nodes .state-label{font-size:10px}
+.card-place{font-size:11px;color:#889479}
+.text-button,.card-footer a{font-size:11px}
+.node-heading,.node-time{font-size:12px}
+.node-original{font-size:10px;color:#83916f}
+.node-comment{font-size:10px}
+.event-summary,.event-summary strong,.event-summary p{font-size:11px}
+.timeline-toolbar{font-size:10px}
+.timeline-toolbar select{font-size:10px}
+.timeline-source{font-size:10px}
+.topic-tabs button{font-size:11px}
+.filter-controls select,.sort-control select,.other-directions select{font-size:11px}
+.search-box input{font-size:11px}
+.next-label,.next-info p{font-size:11px}
+.sync-status,.sync-timestamp,.sync-status button{font-size:10px;color:#78876d}
+.page-heading p{font-size:12px}
+.stat-item>span{font-size:11px}
+.abstract-caution{font-size:11px}
+@media(max-width:600px){
+  .conference-name{min-height:0;font-size:12px}
+  .stat-item{padding:0 10px}.stat-item>span{font-size:9px}
+  .card-badges{font-size:10px}.rank{font-size:9px}
+  .mini-nodes>div:last-child{padding-left:9px}
+  .mini-nodes .state-label{font-size:10px;white-space:normal}
+  .topic-tabs button{font-size:10px;padding:7px}
+  .filter-controls select,.sort-control select{font-size:10px;max-width:111px}
+  .other-directions select{font-size:10px}
+  .reset-button{font-size:9px}
+  .next-info p{font-size:10px}
+  .sync-status,.sync-timestamp{font-size:9px}
+  .timeline-source{font-size:9px}
+}
